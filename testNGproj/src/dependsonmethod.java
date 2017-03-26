@@ -4,7 +4,8 @@ import org.junit.Assert;
 import org.testng.annotations.Test;
 
 public class dependsonmethod {
-	
+	//this is new repository
+	//for practise pushing new repository
 	@Test
 	public void login()
 	{
